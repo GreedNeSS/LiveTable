@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "ws": "^8.2.3"
+  },
+  "name": "livetable",
+  "version": "1.0.0",
+  "main": "'./Application/server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreedNeSS/LiveTable.git"
+  },
+  "author": "GreedNeSS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GreedNeSS/LiveTable/issues"
+  },
+  "homepage": "https://github.com/GreedNeSS/LiveTable#readme",
+  "description": ""
+}
